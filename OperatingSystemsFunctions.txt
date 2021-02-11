@@ -1,0 +1,2 @@
+One of the main functions on an OS is the ability to manage the computers resources. The computer manages many resources such as CPU, RAM, disk drives, and printers. 
+All of these components are very important for the computer to function properly.

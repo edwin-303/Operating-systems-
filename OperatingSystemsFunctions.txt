@@ -1,2 +1,3 @@
 One of the main functions on an OS is the ability to manage the computers resources. The computer manages many resources such as CPU, RAM, disk drives, and printers. 
 All of these components are very important for the computer to function properly.
+Another main function of OS is the ability use user interface. The user interface is when the user starts interacting with the computer. This goal of the user interface is to make the experience easy to comprehend for the user.
